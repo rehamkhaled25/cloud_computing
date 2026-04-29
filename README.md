@@ -1,1 +1,1 @@
-# cloud_computing
+This project is a Food Delivery Website developed using Python and built in a virtual machine (VM) environment . The system provides a simple and interactive platform where users can browse restaurants, view menus, and place food orders easily.
